@@ -12,7 +12,7 @@
   
   GuyImager es otra herramienta de adquisición forense que facilita la captura y clonación de dispositivos de almacenamiento, y también incluye opciones de verificación de integridad, siendo popular por su interfaz intuitiva.
   
-  ![FTK](img/Guymager.png)
+  ![Guymager](img/Guymager.png)
   
   
   ## DD
@@ -20,11 +20,11 @@
   dd es una utilidad de línea de comandos en sistemas Unix/Linux que permite copiar datos a nivel de bloques, lo que la convierte en una opción poderosa y versátil para la creación de imágenes forenses, aunque requiere precisión en su uso para evitar sobrescribir o modificar datos accidentalmente.
   
   
-  ![FTK](img/dd-001.png)
+  ![dd-001](img/dd-001.png)
 
   En esta ilustración podemos ver la intregidad del archivo.
 
-  ![FTK](img/dd-002.png)
+  ![dd-002](img/dd-002.png)
   
 
 
